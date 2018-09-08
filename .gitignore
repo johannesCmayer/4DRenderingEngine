@@ -2,3 +2,7 @@ packages
 .vs
 /packages
 /.vs
+4DRenderingEngine/obj
+4DRenderingEngine/bin
+*.suo
+*.user
